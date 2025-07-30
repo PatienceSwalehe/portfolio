@@ -47,8 +47,8 @@ body a {
     margin-bottom: 20px;
 }
 .header-titel {
-    padding-left: 34.5%;
     padding-top: 20px;
+    text-align: center;
 }
 .header-nav {
     text-align: center;
