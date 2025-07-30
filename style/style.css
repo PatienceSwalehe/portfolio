@@ -97,12 +97,13 @@ body a {
 #photos {
     padding-left: 20px;
 }
-footer {
+footer div  {
     background-color: #1b1818;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
     color: white;
+    line-height: 1.5;
 }
 @media (max-width:800px) {
     body {
